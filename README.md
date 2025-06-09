@@ -1,17 +1,12 @@
-# ProPainter
+# ROSE
 
-This is the source code to the [ProPainter website](https://shangchenzhou.com/projects/ProPainter).
+This is the source code to the [ROSE website]().
 Feel free to clone this code for your own personal use.
 
 
-If you find ProPainter useful for your work please [star](https://github.com/sczhou/ProPainter) and cite:
+If you find ProPainter useful for your work please [star]() and cite:
 ```
-@InProceedings{zhou2023propainter,
-      title     = {{ProPainter}: Improving Propagation and Transformer for Video Inpainting},
-      author    = {Zhou, Shangchen and Li, Chongyi and Chan, Kelvin C.K and Loy, Chen Change},
-      booktitle = {Proceedings of IEEE International Conference on Computer Vision (ICCV)},
-      year      = {2023}
-}
+
 ```
 
 # Website License
